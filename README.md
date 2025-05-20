@@ -16,12 +16,6 @@ Sistema de gestión de clases para los profesores y el personal del Instituto Te
 
 **Server:** MySQL, PHPMyAdmin.
 
-
-## Lessons Learned
-
-What did you learn while building this project? What challenges did you face and how did you overcome them?
-
-
 ## Screenshots
 
 ![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
